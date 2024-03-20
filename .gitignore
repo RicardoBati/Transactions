@@ -1,0 +1,11 @@
+/vendor
+/.idea
+/reports
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+.vscode
+composer-setup.php
+.editorconfig
+phpunit.xml
